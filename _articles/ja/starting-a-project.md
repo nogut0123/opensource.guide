@@ -109,7 +109,7 @@ _フリーソフトウェア_ という言葉も _オープンソース_ と同�
 * [オープンソースライセンス](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
 * [コントリビュートのガイドライン](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [行動規範](../code-of-conduct/)
+* [行動規範](../code-of-conduct.md)
 
 メンテナーとして、これらの要素は期待値をコミュニケーションし、コントリビュートをマネジメントし、すべての人（あなた自身も含む）の法的権利を守る助けになります。これらによってあなたが良い経験を積むことができる可能性を大幅に増やします。
 
